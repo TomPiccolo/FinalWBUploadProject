@@ -1,0 +1,1 @@
+curl -v -b cookie -X PUT -F "kit[zip]=@/Users/thomaspiccolo/Documents/GitHub/FinalWBUploadProject/FinalWBUploadProject/1578446015533417109_finalproject6.zip" -F "kit[game_engine_version]=20194" https://account.altvr.com/api/kits/1578446015533417109.json
